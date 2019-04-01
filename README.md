@@ -4,7 +4,5 @@ Hi! This repository contains all the materials used to give the workshops from R
 Here's a list of all the workshops whose files can be found here:
 1. Introduction to R Workshop, February 5 + 7, 2019
 2. Introduction to Bash Programming Workshop, March 14, 2019
-Note: these files don't include the exercises performed at the end.
-
-Files to be added later:
-1. Next Generation Sequencing Tools Workshop, March 18, 2019
+Note: these files don't include the exercises done at the end.
+3. Next Generation Sequencing Tools Workshop, March 18, 2019
